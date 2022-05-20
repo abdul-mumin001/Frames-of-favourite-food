@@ -1,0 +1,131 @@
+h1 {
+    margin: 50px;
+    padding: 30px;
+    border: 2px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(55, 158, 199);
+    color: white;
+    text-align: center;
+    border-radius: 2px;
+    font-size: 50px;
+}
+
+#img1{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+   width: 100%;
+
+}
+
+#img1 img {
+    
+    width: 300px;
+    margin: 20px;
+    height: 300px;
+    
+}
+.fav1 img{
+    border: 15px solid green;
+    
+}
+.fav2 img{
+    border: 15px dashed green;
+    
+}
+.fav3 img{
+    border: 15px dotted green;
+    
+    
+}
+#img2{
+    display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+   width: 100%;
+
+}
+#img2 img {
+    
+    width: 300px;
+    margin: 20px;
+    height: 300px;
+    
+}
+.fav4 img{
+    border: 15px ridge green;
+    
+    
+}
+.fav5 img{
+    border: 15px groove green;
+    
+    
+}
+#img3{
+    display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   margin: auto;
+   width: 100%;
+
+}
+#img3 img {
+    
+    width: 300px;
+    margin: 20px;
+    height: 300px;
+    
+}
+.fav6 img{
+    border: 15px double green;
+   
+    
+}
+
+#Food{
+    border: 13px solid black;
+    margin: 20px;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
+    border-top-color: green;
+    border-right-color:fuchsia;
+    border-bottom-color: blue;
+    border-left-color:crimson;
+
+}
+footer{
+    padding: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(55, 158, 199);;
+    text-align: center;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 40px;
+    
+    
+}
+footer a:hover{
+    border-bottom: 1px solid blue;
+    color: blue;
+    border-bottom: 1px solid blue;
+    
+}
